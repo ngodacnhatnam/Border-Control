@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{5C09B567-7A92-43EB-9C5C-F4839AB4EEEA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Encapsulation/Program.cs">
+    <Files>
+      <File FileName="Encapsulation/Program.cs" Line="19" Column="1" />
+      <File FileName="Encapsulation/Person.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Encapsulation" expanded="True">
+            <Node name="Encapsulation" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Encapsulation FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

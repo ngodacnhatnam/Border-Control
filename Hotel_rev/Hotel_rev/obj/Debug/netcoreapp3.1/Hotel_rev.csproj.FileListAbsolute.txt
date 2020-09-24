@@ -1,0 +1,12 @@
+/Users/namngo/Desktop/advanced_programming/Hotel_rev/Hotel_rev/bin/Debug/netcoreapp3.1/Hotel_rev.deps.json
+/Users/namngo/Desktop/advanced_programming/Hotel_rev/Hotel_rev/bin/Debug/netcoreapp3.1/Hotel_rev.runtimeconfig.json
+/Users/namngo/Desktop/advanced_programming/Hotel_rev/Hotel_rev/bin/Debug/netcoreapp3.1/Hotel_rev.runtimeconfig.dev.json
+/Users/namngo/Desktop/advanced_programming/Hotel_rev/Hotel_rev/bin/Debug/netcoreapp3.1/Hotel_rev.dll
+/Users/namngo/Desktop/advanced_programming/Hotel_rev/Hotel_rev/bin/Debug/netcoreapp3.1/Hotel_rev.pdb
+/Users/namngo/Desktop/advanced_programming/Hotel_rev/Hotel_rev/obj/Debug/netcoreapp3.1/Hotel_rev.csprojAssemblyReference.cache
+/Users/namngo/Desktop/advanced_programming/Hotel_rev/Hotel_rev/obj/Debug/netcoreapp3.1/Hotel_rev.AssemblyInfoInputs.cache
+/Users/namngo/Desktop/advanced_programming/Hotel_rev/Hotel_rev/obj/Debug/netcoreapp3.1/Hotel_rev.AssemblyInfo.cs
+/Users/namngo/Desktop/advanced_programming/Hotel_rev/Hotel_rev/obj/Debug/netcoreapp3.1/Hotel_rev.csproj.CoreCompileInputs.cache
+/Users/namngo/Desktop/advanced_programming/Hotel_rev/Hotel_rev/obj/Debug/netcoreapp3.1/Hotel_rev.dll
+/Users/namngo/Desktop/advanced_programming/Hotel_rev/Hotel_rev/obj/Debug/netcoreapp3.1/Hotel_rev.pdb
+/Users/namngo/Desktop/advanced_programming/Hotel_rev/Hotel_rev/obj/Debug/netcoreapp3.1/Hotel_rev.genruntimeconfig.cache

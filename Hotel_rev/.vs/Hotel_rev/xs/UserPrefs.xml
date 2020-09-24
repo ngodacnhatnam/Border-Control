@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{659EADCD-4A97-41F1-9413-C60B185AC22A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hotel_rev/Season.cs">
+    <Files>
+      <File FileName="Hotel_rev/Program.cs" Line="10" Column="33" />
+      <File FileName="Hotel_rev/ProgHoteReserve.cs" Line="1" Column="1" />
+      <File FileName="Hotel_rev/Discount.cs" Line="1" Column="1" />
+      <File FileName="Hotel_rev/Season.cs" Line="1" Column="1" />
+      <File FileName="Hotel_rev/nam.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hotel_rev" expanded="True">
+            <Node name="Hotel_rev" expanded="True">
+              <Node name="Season.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Hotel__rev PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2A243648-9A91-40D3-A1F4-225282841079}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Restaurant/Restaurant.cs">
+    <Files>
+      <File FileName="Restaurant/Program.cs" Line="14" Column="1" IsPinned="True" />
+      <File FileName="Restaurant/Restaurant.cs" Line="15" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Restaurant" expanded="True">
+            <Node name="Restaurant" expanded="True">
+              <Node name="Restaurant.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Restaurant PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

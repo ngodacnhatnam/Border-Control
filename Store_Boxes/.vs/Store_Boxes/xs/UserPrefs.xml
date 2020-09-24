@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{82F5F769-0517-4383-B3F5-97B848DB9158}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Store_Boxes/Program.cs">
+    <Files>
+      <File FileName="Store_Boxes/Program.cs" Line="13" Column="1" />
+      <File FileName="Items.cs" Line="13" Column="1" />
+      <File FileName="Boxes.cs" Line="10" Column="13" />
+      <File FileName="Item_list.cs" Line="8" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Store__Boxes FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

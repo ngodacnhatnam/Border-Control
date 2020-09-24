@@ -1,0 +1,12 @@
+/Users/namngo/Desktop/advanced_programming/Math_Operation/Math_Operation/bin/Debug/netcoreapp3.1/Math_Operation.deps.json
+/Users/namngo/Desktop/advanced_programming/Math_Operation/Math_Operation/bin/Debug/netcoreapp3.1/Math_Operation.runtimeconfig.json
+/Users/namngo/Desktop/advanced_programming/Math_Operation/Math_Operation/bin/Debug/netcoreapp3.1/Math_Operation.runtimeconfig.dev.json
+/Users/namngo/Desktop/advanced_programming/Math_Operation/Math_Operation/bin/Debug/netcoreapp3.1/Math_Operation.dll
+/Users/namngo/Desktop/advanced_programming/Math_Operation/Math_Operation/bin/Debug/netcoreapp3.1/Math_Operation.pdb
+/Users/namngo/Desktop/advanced_programming/Math_Operation/Math_Operation/obj/Debug/netcoreapp3.1/Math_Operation.csprojAssemblyReference.cache
+/Users/namngo/Desktop/advanced_programming/Math_Operation/Math_Operation/obj/Debug/netcoreapp3.1/Math_Operation.AssemblyInfoInputs.cache
+/Users/namngo/Desktop/advanced_programming/Math_Operation/Math_Operation/obj/Debug/netcoreapp3.1/Math_Operation.AssemblyInfo.cs
+/Users/namngo/Desktop/advanced_programming/Math_Operation/Math_Operation/obj/Debug/netcoreapp3.1/Math_Operation.csproj.CoreCompileInputs.cache
+/Users/namngo/Desktop/advanced_programming/Math_Operation/Math_Operation/obj/Debug/netcoreapp3.1/Math_Operation.dll
+/Users/namngo/Desktop/advanced_programming/Math_Operation/Math_Operation/obj/Debug/netcoreapp3.1/Math_Operation.pdb
+/Users/namngo/Desktop/advanced_programming/Math_Operation/Math_Operation/obj/Debug/netcoreapp3.1/Math_Operation.genruntimeconfig.cache
