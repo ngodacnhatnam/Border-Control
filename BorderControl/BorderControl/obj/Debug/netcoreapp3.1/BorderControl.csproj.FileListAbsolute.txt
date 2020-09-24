@@ -1,0 +1,4 @@
+/Users/namngo/Desktop/advanced_programming/BorderControl/BorderControl/obj/Debug/netcoreapp3.1/BorderControl.csprojAssemblyReference.cache
+/Users/namngo/Desktop/advanced_programming/BorderControl/BorderControl/obj/Debug/netcoreapp3.1/BorderControl.AssemblyInfoInputs.cache
+/Users/namngo/Desktop/advanced_programming/BorderControl/BorderControl/obj/Debug/netcoreapp3.1/BorderControl.AssemblyInfo.cs
+/Users/namngo/Desktop/advanced_programming/BorderControl/BorderControl/obj/Debug/netcoreapp3.1/BorderControl.csproj.CoreCompileInputs.cache

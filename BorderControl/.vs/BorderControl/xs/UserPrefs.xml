@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{7AA822C0-A9AB-4CE3-BDBE-2431B7C3058F}|Default">
+  <MonoDevelop.Ide.ItemProperties.BorderControl PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BorderControl/Identifiable.cs">
+    <Files>
+      <File FileName="BorderControl/Program.cs" Line="16" Column="6" />
+      <File FileName="BorderControl/IPerson.cs" Line="6" Column="28" />
+      <File FileName="BorderControl/Citizen.cs" Line="15" Column="13" />
+      <File FileName="BorderControl/Robot.cs" Line="4" Column="25" />
+      <File FileName="BorderControl/Identifiable.cs" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BorderControl" expanded="True">
+            <Node name="BorderControl" expanded="True">
+              <Node name="Citizen.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
